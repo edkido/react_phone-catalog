@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.52aae5c4.css",
-    "main.js": "./static/js/main.748c6f00.js",
+    "main.js": "./static/js/main.7b1230c3.js",
     "static/media/tablets-category.svg": "./static/media/tablets-category.cb4d6552f79cdb990bb336eac1f4a947.svg",
     "static/media/Watch.png": "./static/media/Watch.5640601b8fffebecb95d.png",
     "static/media/iphone14.png": "./static/media/iphone14.969cb78e170edd6dfc5b.png",
@@ -30,10 +30,10 @@
     "static/media/arrowUp.svg": "./static/media/arrowUp.891b934a02bc10dca3a3a41767483503.svg",
     "static/media/minus.svg": "./static/media/minus.cecb4be39afa7b933ec169dd495a73ff.svg",
     "main.52aae5c4.css.map": "./static/css/main.52aae5c4.css.map",
-    "main.748c6f00.js.map": "./static/js/main.748c6f00.js.map"
+    "main.7b1230c3.js.map": "./static/js/main.7b1230c3.js.map"
   },
   "entrypoints": [
     "static/css/main.52aae5c4.css",
-    "static/js/main.748c6f00.js"
+    "static/js/main.7b1230c3.js"
   ]
 }
